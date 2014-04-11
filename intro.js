@@ -13,7 +13,7 @@ $(document).ready(function(){
 	function end(){
 		alert("Game Finish!");
 		alert("Restart Game!");
-		window.location="intro.html";
+		window.location="index.html";
 	}
 	function b(){
 		alert("맞음!");
